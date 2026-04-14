@@ -1,0 +1,21 @@
+# Web Framework & ORM
+fastapi==0.110.0
+sqlmodel==0.0.16
+uvicorn[standard]==0.27.1
+
+# Database & Migrations
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# Validation & Environment
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+
+# Security
+python-multipart==0.0.9
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+
+# Testing & Quality
+pytest==8.0.2
+httpx==0.27.0

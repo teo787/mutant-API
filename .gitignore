@@ -1,0 +1,44 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+
+# 🧪 Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# 🌱 Entornos virtuales
+env/
+venv/
+.venv/
+
+# 🔐 Variables de entorno
+.env
+.env.*
+.env.test
+!.env.example
+!.env.test.example
+
+# 🐘 DB local
+*.sqlite3
+*.db
+
+# 🧱 Alembic cache
+alembic/versions/__pycache__/
+
+# 🧰 IDEs
+.vscode/
+.idea/
+
+# 🧾 Logs
+*.log
+
+# 🧪 Temporales
+*.swp
+.DS_Store
+
+# 📦 Build
+dist/
+build/
+*.egg-info/
