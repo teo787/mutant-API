@@ -70,7 +70,7 @@ app/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/adn-analyzer.git
+git clone https://github.com/teo787/adn-analyzer.git
 cd adn-analyzer
 ```
 
